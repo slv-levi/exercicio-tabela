@@ -1,0 +1,21 @@
+
+.cabecalho-moda{
+    background-color: #bb86fc;
+}
+
+.cabecalho-casa{
+    background-color: #00c4b4;
+}
+
+.valores{
+    background-color: #424250 ;
+}
+
+td, th {
+    padding: 10px;
+    margin: 0;
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
